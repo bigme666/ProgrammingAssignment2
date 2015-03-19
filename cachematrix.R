@@ -22,7 +22,7 @@ makeCacheMatrix <- function(m = matrix()) {
         list(   set=set, 
                 get=get, 
                 setinv=setinv, 
-                getinve=getinv)
+                getinv=getinv )
 }
 
 
